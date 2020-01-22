@@ -1,2 +1,2 @@
-# GitAliasPowershel
-Creating alias for git in Windows PowerShell
+# AliasPowershel
+Creating alias for in Windows PowerShell
